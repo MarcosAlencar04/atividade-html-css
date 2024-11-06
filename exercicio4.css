@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.pai{
+    border: 2px solid black;
+    background-color: lightgray;
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+    flex-wrap: wrap;
+}
+
+.filha{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    background-color: blue;
+}
