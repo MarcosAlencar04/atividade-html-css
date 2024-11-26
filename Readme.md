@@ -10,4 +10,4 @@ Exercícios focados em fixar a utilização de Git/Github, além de trabalhar co
 
 4 - Repetir o exercício 2 utilizando display flex
 
-5 - 
+5 - Tente reproduzir o cabeçalho de uma página qualquer da internet: com uma div à esquerda com a logo do site e uma à direita com um menu de navegação.
